@@ -1,7 +1,7 @@
 ### Hi there, I'm Hemshu Shivhare👋
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ninja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gautamvishal966)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ninja?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HemshuH28643)
 
 ## I'm a Student 
 - 🔭 Final year CS student at BIET Jhansi
