@@ -8,7 +8,10 @@
 - 🌱 I’m currently exploring Open Source Projects.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ More About Me :I am a passionate MERN Stack Developer currently serving as the Secretary of the Training & Placement Cell at BIET Jhansi.I've also held various leadership positions, and have a track record of fostering professional growth. My journey includes a productive internship at Dabotics India Pvt. Ltd. and active involvement in open-source contributions during Hacktoberfest. As an Executive Member of the Computer Science Students' Council and Literary Sub Council at BIET Jhansi, I've honed my skills in teamwork and leadership. I am pursuing a Bachelor of Technology in Computer Science and Engineering at BIET Jhansi, set to graduate in 2024..
+- ⚡ More About Me :I am a passionate MERN Stack Developer currently serving as the Secretary of the Training & Placement Cell at BIET Jhansi.I've also held various leadership positions, and have a 
+    track record of fostering professional growth. My journey includes a productive internship at Dabotics India Pvt. Ltd. and active involvement in open-source contributions during Hacktoberfest. As 
+    an Executive Member of the Computer Science Students' Council and Literary Sub Council at BIET Jhansi, I've honed my skills in teamwork and leadership. I am pursuing a Bachelor of Technology in 
+    Computer Science and Engineering at BIET Jhansi, set to graduate in 2024..
 
 # GitHub Stats
 
@@ -24,9 +27,9 @@
  
 
 ## Contact Me
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gautamvishal966)
+[![Twitter](https://static.vecteezy.com/system/resources/previews/014/441/078/original/phone-call-icon-design-in-blue-circle-png.png)](+91 8009478955)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemshu-shivhare-5927491ba)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](https://vishagautam.github.io/vishalgautam/)
+
 
 
 <a href="https://github.com/sponsors/"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
