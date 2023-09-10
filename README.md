@@ -5,10 +5,10 @@
 
 ## I'm a Student 
 - 🔭 Final year CS student at BIET Jhansi
-- 🌱 I’m currently exploring Data Science and Machine Learning.
+- 🌱 I’m currently exploring Open Source Projects.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to create problem and build something.
+- ⚡ More About Me :I am a passionate MERN Stack Developer currently serving as the Secretary of the Training & Placement Cell at BIET Jhansi.I've also held various leadership positions, and have a track record of fostering professional growth. My journey includes a productive internship at Dabotics India Pvt. Ltd. and active involvement in open-source contributions during Hacktoberfest. As an Executive Member of the Computer Science Students' Council and Literary Sub Council at BIET Jhansi, I've honed my skills in teamwork and leadership. I am pursuing a Bachelor of Technology in Computer Science and Engineering at BIET Jhansi, set to graduate in 2024..
 
 # GitHub Stats
 
