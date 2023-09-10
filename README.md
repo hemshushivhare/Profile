@@ -27,7 +27,7 @@
  
 
 ## Contact Me
-[![Twitter](https://static.vecteezy.com/system/resources/previews/014/441/078/original/phone-call-icon-design-in-blue-circle-png.png)](+91 8009478955)
+[![Twitter](📞)](+91 8009478955)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemshu-shivhare-5927491ba)
 
 
