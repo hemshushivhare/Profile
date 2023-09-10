@@ -3,15 +3,16 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Hemshu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/HemshuH28643)
 
-## I'm a Student 
+## I'm a Developer & Designer 
 - 🔭 Final year CS student at BIET Jhansi
 - 🌱 I’m currently exploring Open Source Projects.
 - 👯 I’m looking to collaborate with other content creators and developers
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ More About Me :I am a passionate MERN Stack Developer currently serving as the Secretary of the Training & Placement Cell at BIET Jhansi.I've also held various leadership positions, and have a 
-    track record of fostering professional growth. My journey includes a productive internship at Dabotics India Pvt. Ltd. and active involvement in open-source contributions during Hacktoberfest. As 
-    an Executive Member of the Computer Science Students' Council and Literary Sub Council at BIET Jhansi, I've honed my skills in teamwork and leadership. I am pursuing a Bachelor of Technology in 
-    Computer Science and Engineering at BIET Jhansi, set to graduate in 2024..
+- ⚡ More About Me :I am a passionate MERN Stack Developer currently serving as the Secretary of the Training & Placement Cell at BIET Jhansi.I've also 
+     held various leadership positions, and have a track record of fostering professional growth. My journey includes a productive internship at 
+     Dabotics India Pvt. Ltd. and active involvement in open-source contributions during Hacktoberfest.As an Executive Member of the Computer Science 
+     Students' Council and Literary Sub Council at BIET Jhansi, I've honed my skills in teamwork and leadership. I am pursuing a Bachelor of Technology 
+     in Computer Science and Engineering at BIET Jhansi, set to graduate in 2024.
 
 # GitHub Stats
 
