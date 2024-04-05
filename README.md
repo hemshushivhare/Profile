@@ -6,7 +6,7 @@
 ## I'm a Developer & Designer 
 - 🔭 Final year CS student at BIET Jhansi
 - 🌱 I’m currently exploring Open Source Projects.
-- 👯 I’m looking to collaborate with other content creators and developers
+- 👯 Working as Software Trainee at Impledge Technologies
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ More About Me :I am a passionate MERN Stack Developer currently serving as the Secretary of the Training & Placement Cell at BIET Jhansi.I've also 
      held various leadership positions, and have a track record of fostering professional growth. My journey includes a productive internship at 
